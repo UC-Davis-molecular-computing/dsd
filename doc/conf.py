@@ -44,6 +44,7 @@ extensions = [
     # 'sphinx.ext.napoleon',
 ]
 
+# next line puts type of each function parameter next to description of parameter
 autodoc_typehints = "description"
 
 # Add any paths that contain templates here, relative to this directory.
